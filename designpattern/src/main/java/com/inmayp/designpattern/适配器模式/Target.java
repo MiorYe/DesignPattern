@@ -1,4 +1,4 @@
-package com.inmayp.designpattern.designpattern.适配器模式;
+package com.inmayp.designpattern.适配器模式;
 
 /**
  * 目标类

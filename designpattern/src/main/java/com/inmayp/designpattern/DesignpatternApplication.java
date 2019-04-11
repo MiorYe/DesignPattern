@@ -1,4 +1,4 @@
-package com.inmayp.designpattern.designpattern;
+package com.inmayp.designpattern;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

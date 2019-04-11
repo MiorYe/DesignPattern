@@ -1,4 +1,4 @@
-package com.inmayp.designpattern.designpattern;
+package com.inmayp.designpattern;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
